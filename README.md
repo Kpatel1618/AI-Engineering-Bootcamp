@@ -62,8 +62,8 @@ My objective is to combine my program management experience with hands-on AI eng
 | Sprint    | Topic                      | Status         |
 | --------- | -------------------------- | -------------- |
 | Sprint 0  | Environment & Agile Setup  | ✅ Completed    |
-| Sprint 1  | Python Foundations         | 🚧 In Progress |
-| Sprint 2  | APIs & Prompt Engineering  | ⏳ Planned      |
+| Sprint 1  | Python Foundations         | ✅ Completed    |
+| Sprint 2  | APIs & Prompt Engineering  | 🚀 Starting Sprint 2 - APIs & Prompt Engineering  |
 | Sprint 3  | Azure AI                   | ⏳ Planned      |
 | Sprint 4  | LangChain                  | ⏳ Planned      |
 | Sprint 5  | RAG & Vector Databases     | ⏳ Planned      |
